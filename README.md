@@ -10,8 +10,8 @@ https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-208518
 Util_Creat_Mask.py : Creat target files containing:
 
 - 8 targets: 'OpticNerve_R', 'OpticNerve_L', 'Eye_R', 'Eye_L', 'BrainStem', 'Chiasm', 'CTV', 'GTV' 
-- 5 targets: 'OpticNerve_R', 'OpticNerve_L', 'Eye_R', 'Eye_L', 'BrainStem'
-- 3 targets: 'Chiasm', 'CTV', 'GTV'
+- 5 targets: 'OpticNerve_R', 'OpticNerve_L', 'Eye_R', 'Eye_L', 'BrainStem','Chiasm', 
+- 3 targets: 'CTV', 'GTV', PTV
 
 
 
